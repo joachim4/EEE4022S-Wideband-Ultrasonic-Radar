@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MC33079P")(type "KiCad")(uri "${KIPRJMOD}/MC33079P")(options "")(descr ""))
+)
