@@ -1,0 +1,94 @@
+Circuit: * D:\UCT\OneDrive - University of Cape Town\EEE4022S\LTSpice\NewTx2.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node V--.  This node is used by V3.
+WARNING: Less than two connections to node N001.  This node is used by R2.
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.76685e-007
+vernier = 0.000976563
+vernier = 0.00130208
+Gmin = 1.7624e-007
+vernier = 0.00173611
+vernier = 0.00231481
+Gmin = 1.75464e-007
+vernier = 0.00308642
+Gmin = 1.7425e-007
+vernier = 0.00411522
+vernier = 0.00548696
+Gmin = 1.72231e-007
+vernier = 0.00731595
+vernier = 0.00975459
+Gmin = 1.69061e-007
+vernier = 0.0130061
+Gmin = 1.64193e-007
+vernier = 0.0173415
+vernier = 0.023122
+Gmin = 1.56339e-007
+vernier = 0.0308293
+vernier = 0.0411057
+Gmin = 1.44602e-007
+vernier = 0.0548076
+Gmin = 1.27924e-007
+vernier = 0.0730768
+vernier = 0.0974357
+Gmin = 1.04224e-007
+vernier = 0.129914
+vernier = 0.173219
+Gmin = 7.53278e-008
+vernier = 0.230959
+Gmin = 4.53982e-008
+vernier = 0.307945
+vernier = 0.410593
+Gmin = 1.96802e-008
+vernier = 0.547457
+vernier = 0.729942
+Gmin = 5.36182e-009
+vernier = 0.973256
+Gmin = 7.4241e-010
+vernier = 1
+Gmin = 7.97157e-011
+Gmin = 8.55941e-012
+Gmin = 9.1906e-013
+Gmin = 0
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Aug 25 21:54:35 2024
+Total elapsed time: 0.116 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1697
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 50
+fillins = 52
+solver = Normal
+Matrix Compiler1:     245 opcodes
+Matrix Compiler2: off  [0.3]/0.7/0.5
+

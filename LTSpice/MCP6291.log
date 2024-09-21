@@ -1,0 +1,4 @@
+Stray ".ends" card: .ends mcp6291
+Circuit: .SUBCKT MCP6291 1 2 3 4 5
+
+Fatal Error: No analysis request found.

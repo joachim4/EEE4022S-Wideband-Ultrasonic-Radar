@@ -1,0 +1,88 @@
+Circuit: * D:\UCT\OneDrive - University of Cape Town\EEE4022S\LTSpice\RxNew3.asc
+
+V4: both pins shorted together -- ignoring.
+WARNING: Less than two connections to node N022.  This node is used by R5.
+WARNING: Less than two connections to node N001.  This node is used by R15.
+WARNING: Less than two connections to node V--.  This node is used by V3.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+Gmin = 3.78697e-007
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 7.94338e-008
+vernier = 1
+vernier = 0.5
+vernier = 0.25
+Gmin = 2.53129e-008
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 2.47303e-008
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 2.45619e-008
+vernier = 0.00520833
+vernier = 0.00694444
+Gmin = 2.42024e-008
+vernier = 0.00925925
+vernier = 0.0123457
+Gmin = 2.36401e-008
+vernier = 0.0164609
+Gmin = 2.27822e-008
+vernier = 0.0219478
+vernier = 0.0292638
+Gmin = 2.14128e-008
+vernier = 0.0390184
+vernier = 0.0520245
+Gmin = 1.9401e-008
+vernier = 0.0693659
+Gmin = 1.66178e-008
+vernier = 0.0924879
+vernier = 0.123317
+Gmin = 1.28311e-008
+vernier = 0.164423
+vernier = 0.21923
+Gmin = 8.52264e-009
+vernier = 0.292307
+Gmin = 4.50917e-009
+vernier = 0.389743
+vernier = 0.519657
+Gmin = 1.58358e-009
+vernier = 0.692876
+vernier = 0.923834
+Gmin = 3.13897e-010
+vernier = 1
+Gmin = 3.58388e-011
+Gmin = 3.84817e-012
+Gmin = 4.13194e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun Aug 25 21:57:40 2024
+Total elapsed time: 0.100 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 1585
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 48
+fillins = 46
+solver = Normal
+Matrix Compiler1:     242 opcodes
+Matrix Compiler2: off  [0.3]/0.6/0.5
+
